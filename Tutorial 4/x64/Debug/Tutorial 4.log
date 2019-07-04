@@ -1,0 +1,12 @@
+﻿  Camera.cpp
+f:\nathan rowell, university work\year 3\physics sim\physx 11.4.18\physx tutorials\tutorial 4\extras\camera.h(3): fatal error C1083: Cannot open include file: 'foundation/PxTransform.h': No such file or directory
+  GLFontRenderer.cpp
+  Renderer.cpp
+f:\nathan rowell, university work\year 3\physics sim\physx 11.4.18\physx tutorials\tutorial 4\extras\renderer.h(3): fatal error C1083: Cannot open include file: 'PxPhysicsAPI.h': No such file or directory
+  PhysicsEngine.cpp
+f:\nathan rowell, university work\year 3\physics sim\physx 11.4.18\physx tutorials\tutorial 4\physicsengine.h(4): fatal error C1083: Cannot open include file: 'PxPhysicsAPI.h': No such file or directory
+  VisualDebugger.cpp
+f:\nathan rowell, university work\year 3\physics sim\physx 11.4.18\physx tutorials\tutorial 4\physicsengine.h(4): fatal error C1083: Cannot open include file: 'PxPhysicsAPI.h': No such file or directory
+  Tutorial 4.cpp
+f:\nathan rowell, university work\year 3\physics sim\physx 11.4.18\physx tutorials\tutorial 4\physicsengine.h(4): fatal error C1083: Cannot open include file: 'PxPhysicsAPI.h': No such file or directory
+  Generating Code...
